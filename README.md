@@ -5,10 +5,9 @@ This app allows users to **Add**, **Edit**, **Update**, and **Delete** inventory
 
 ## 🎥 Demo
 
-Watch a quick 2:30 minute video walkthrough of the project:
 
-[▶️ Watch Video](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)  
-*(Replace the above link with your YouTube or Google Drive video link)*
+
+[▶️ Watch Video](https://drive.google.com/drive/folders/1SMMey__TZyWXKmziP8DeoJhRlSiV483a)  
 
 ---
 
@@ -43,3 +42,36 @@ Watch a quick 2:30 minute video walkthrough of the project:
 ```bash
 git clone https://github.com/swapnilshinde1101/Inventory-Management.git
 cd Inventory-Management  
+ 
+```
+
+## 2. Install dependencies
+
+```bash
+npm install
+```
+
+---
+
+## 3. Set up MongoDB
+
+```bash
+mongodb://localhost:27017/inventory
+
+```
+
+---
+
+## 2. Install dependencies
+
+```bash
+npm install
+```
+
+---
+
+# 3. Start the app 
+
+```bash
+nodemon index.js
+```
